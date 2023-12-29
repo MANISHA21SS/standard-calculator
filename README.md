@@ -115,8 +115,7 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
-
-
+![WhatsApp Image 2023-12-30 at 12 23 52 AM (1)](https://github.com/MANISHA21SS/standard-calculator/assets/147474298/b97e66a2-299a-40e8-83dc-db8d082cf35d)
 ## Result:
 Thus we designed a web application for a standard calculator.
 
